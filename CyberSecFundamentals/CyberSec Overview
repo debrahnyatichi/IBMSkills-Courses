@@ -1,0 +1,15 @@
+                                                            WHAT IS CYBERSECURITY?
+Cybersecurity- security of digital systems OR security of communications.
+Information Security- it focuses on the value of information we are trying to protect rather than how we protect it.
+BRANCHES OF INFORMATION SECURITY:
+1.Physical security- it is the practise of physically protecting assets like buildings, security cameras, equipment and property from physical threats like: theft, vandalism, fire and natural disasters.
+2.Cyber security- it is the practise of protecting and recovering networks, devices and programs from any type of malicipus cyber attack.
+Accprding to NIST(National Institute of Standards and Technology), Information Security is the protection of information systems from unauthorized access,use,disclosure,disruption,modification or destruction in order to procide CIA(Confidentiality,Integrity and Availability)
+
+INFORMATION SECURITY OBJECTIVES:
+They are defined using CIA triad.
+Confidentiality(information is private)- preventing information from falling into the hands of people who do not have authorization to access the information.
+Integrity(information has not been altered)-making sure the information stays accurate and consistent, ensuring that unathorised people cannot make any changes in the information
+Availability(information can be accessed when required)-timely and reliable access to and use of the information when required.
+
+Asset-something that has a value to its owner. they can be digital e.g. a program OR physical such as a server.
